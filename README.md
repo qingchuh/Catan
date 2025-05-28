@@ -9,6 +9,8 @@ A modern web application for intelligent document search and analysis, built wit
 - Modern, responsive user interface
 - Secure document handling and processing
 - Integration with Google's Gemini AI for intelligent insights
+- Retrieval-Augmented Generation (RAG) for context-aware responses
+- Intelligent document processing with semantic understanding
 
 ## Tech Stack
 
@@ -16,6 +18,9 @@ A modern web application for intelligent document search and analysis, built wit
 - FastAPI (Python)
 - Google Gemini AI API
 - Docker for containerization
+- RAG (Retrieval-Augmented Generation) for enhanced AI responses
+- Vector database for efficient document retrieval
+- Document processing pipeline for intelligent analysis
 
 ### Frontend
 - React with TypeScript
